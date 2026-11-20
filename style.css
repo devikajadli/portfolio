@@ -140,4 +140,12 @@ ul.main-menu li a.active {
   display:block;
 }
 
+#home img {
+  width: 180px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 50%;
+  margin: 0 auto 20px;
+}
 
